@@ -21,5 +21,3 @@ This means that it has one mandatory format argument, and an extra number of arg
 
 * Ibinabo Orifama
 * Kobby Ackor
-
-
